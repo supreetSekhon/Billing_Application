@@ -24,8 +24,8 @@ This is a basic client and billing application built using Yii2. The application
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/supreetSekhon/Billing_Application.git
+cd Billing_Application
 ```
 ### Step 2: Install dependencies
 ```bash
